@@ -10,4 +10,4 @@ Guessing Game Features:
 
 A simple to program JavaScript game that utitlizes easy to follow logic.
 
-View a live demo [here]() hosted with Netlify.
+View a live demo [here](https://sad-lumiere-2815c0.netlify.app/) hosted with Netlify.
